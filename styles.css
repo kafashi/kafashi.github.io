@@ -148,7 +148,7 @@ ul.bullet-list li{
   color:var(--ink); font-size:1rem;
 }
 ul.bullet-list li::before{
-  content:"—"; position:absolute; left:0; top:0; color:var(--cyan);
+  content:"◦"; position:absolute; left:0; top:0; color:var(--cyan);
 }
 
 /* ---------- PAPERS ---------- */
